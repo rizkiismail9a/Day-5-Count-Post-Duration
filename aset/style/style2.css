@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 /* Awal Navbar */
 body {
   background-color: rgb(231, 231, 231);
@@ -62,7 +66,7 @@ div.kanan {
   /* background-color: aquamarine; */
   display: flex;
   margin: auto;
-  width: 1000px;
+  /* width: 1000px; */
   flex-direction: column;
   padding: 20px;
 }
